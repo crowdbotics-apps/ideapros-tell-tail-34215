@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [react-native-social-login](modules/social-login)
 - [react-native-splash](modules/splash)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
